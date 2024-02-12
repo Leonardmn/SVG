@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 51.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Satoshi-Black, Satoshi;
+        font-size: 13.76px;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #3533ff;
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <path class="cls-5" d="M25.45.32L181.45,0c14.08-.03,25.52,11.36,25.55,25.45h0c.03,14.08-11.36,25.52-25.45,25.55l-156,.32C11.47,51.35.03,39.96,0,25.87H0C-.02,11.79,11.37.35,25.45.32Z"/>
+  <text class="cls-1" transform="translate(44.52 29.95)"><tspan x="0" y="0">Figma </tspan><tspan class="cls-6" x="44.4" y="0">t</tspan><tspan class="cls-4" x="49.37" y="0">o </tspan><tspan class="cls-3" x="61.46" y="0">w</tspan><tspan x="72.55" y="0">ebfl</tspan><tspan class="cls-2" x="97.95" y="0">o</tspan><tspan x="106.04" y="0">w</tspan></text>
+</svg>
