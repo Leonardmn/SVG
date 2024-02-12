@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 51.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Satoshi-Black, Satoshi;
+        font-size: 13.76px;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        fill: #ff9ef1;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M25.45.32L181.45,0c14.08-.03,25.52,11.36,25.55,25.45h0c.03,14.08-11.36,25.52-25.45,25.55l-156,.32C11.47,51.35.03,39.96,0,25.87H0C-.02,11.79,11.37.35,25.45.32Z"/>
+  <text class="cls-1" transform="translate(40.27 29.95)"><tspan x="0" y="0">No code d</tspan><tspan class="cls-2" x="68.36" y="0">ev</tspan><tspan x="83.37" y="0">eloper</tspan></text>
+</svg>
