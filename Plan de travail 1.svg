@@ -1,14 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 208 53" style="enable-background:new 0 0 208 53;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#3533FF;}
-	.st1{fill:#FFFFFF;}
-	.st2{font-family:'Satoshi-Black';}
-	.st3{font-size:13.7648px;}
-</style>
-<path class="st0" d="M26.2,1.1l156-0.3c14.1,0,25.5,11.4,25.6,25.5l0,0c0,14.1-11.4,25.5-25.4,25.5l-156,0.3
-	c-14.1,0-25.5-11.4-25.5-25.5l0,0C0.7,12.6,12.1,1.1,26.2,1.1z"/>
-<text transform="matrix(1 0 0 1 29.6293 30.7258)" class="st1 st2 st3">Webflow development</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.78 25.24">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Satoshi-Black, Satoshi;
+        font-size: 7.47px;
+        font-weight: 800;
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #3533ff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-4" d="M12.45.15l76.74-.15c6.94,0,12.54,5.61,12.59,12.54h0c0,6.94-5.61,12.54-12.49,12.54l-76.74.15c-6.94,0-12.54-5.61-12.54-12.54H0C-.1,5.8,5.51.15,12.45.15Z"/>
+  <text class="cls-3" transform="translate(10.51 14.91)"><tspan class="cls-1" x="0" y="0">W</tspan><tspan x="7.39" y="0">ebfl</tspan><tspan class="cls-2" x="21.18" y="0">o</tspan><tspan x="25.57" y="0">w d</tspan><tspan class="cls-2" x="38.55" y="0">ev</tspan><tspan x="46.7" y="0">elopment</tspan></text>
 </svg>
