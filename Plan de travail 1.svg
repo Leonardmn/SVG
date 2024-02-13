@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.21 11.21">
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 45.71 11.71">
   <defs>
     <style>
       .cls-1 {
@@ -19,11 +19,17 @@
       }
 
       .cls-4 {
-        fill: #3533ff;
-        stroke-width: 0px;
+        fill: url(#Dégradé_sans_nom_5);
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
       }
     </style>
+    <linearGradient id="Dégradé_sans_nom_5" data-name="Dégradé sans nom 5" x1="-4.55" y1="7.86" x2="51.96" y2="3.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9ef1"/>
+      <stop offset="1" stop-color="#3533ff"/>
+    </linearGradient>
   </defs>
-  <path class="cls-4" d="M5.53.07l34.09-.07c3.08,0,5.57,2.49,5.59,5.57h0c0,3.08-2.49,5.57-5.55,5.57l-34.09.07c-3.08,0-5.57-2.49-5.57-5.57H0C-.04,2.58,2.45.07,5.53.07Z"/>
-  <text class="cls-2" transform="translate(4.67 6.62)"><tspan class="cls-1" x="0" y="0">W</tspan><tspan x="3.28" y="0">ebfl</tspan><tspan class="cls-3" x="9.41" y="0">o</tspan><tspan x="11.36" y="0">w d</tspan><tspan class="cls-3" x="17.12" y="0">ev</tspan><tspan x="20.74" y="0">elopment</tspan></text>
+  <path class="cls-4" d="M5.78.32l34.09-.07c3.08,0,5.57,2.49,5.59,5.57h0c0,3.08-2.49,5.57-5.55,5.57l-34.09.07c-3.08,0-5.57-2.49-5.57-5.57H.25C.21,2.83,2.7.32,5.78.32Z"/>
+  <text class="cls-2" transform="translate(4.92 6.87)"><tspan class="cls-1" x="0" y="0">W</tspan><tspan x="3.28" y="0">ebfl</tspan><tspan class="cls-3" x="9.41" y="0">o</tspan><tspan x="11.36" y="0">w d</tspan><tspan class="cls-3" x="17.12" y="0">ev</tspan><tspan x="20.74" y="0">elopment</tspan></text>
 </svg>
