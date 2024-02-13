@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 51.32">
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 45.71 11.71">
   <defs>
     <style>
       .cls-1 {
-        fill: #fff;
-        font-family: Satoshi-Black, Satoshi;
-        font-size: 13.76px;
-        font-weight: 800;
+        fill: url(#Nouvelle_nuance_de_dégradé_1);
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
       }
 
       .cls-2 {
-        fill: #ff9ef1;
-        stroke-width: 0px;
+        fill: #fff;
+        font-family: Satoshi-Black, Satoshi;
+        font-size: 3.32px;
+        font-weight: 800;
+        isolation: isolate;
       }
     </style>
+    <linearGradient id="Nouvelle_nuance_de_dégradé_1" data-name="Nouvelle nuance de dégradé 1" x1=".25" y1="5.85" x2="45.46" y2="5.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9ef1"/>
+      <stop offset="1" stop-color="#3533ff"/>
+    </linearGradient>
   </defs>
-  <path class="cls-2" d="M25.45.32L181.45,0c14.08-.03,25.52,11.36,25.55,25.45h0c.03,14.08-11.36,25.52-25.45,25.55l-156,.32C11.47,51.35.03,39.96,0,25.87H0C-.02,11.79,11.37.35,25.45.32Z"/>
-  <text class="cls-1" transform="translate(57.98 29.95)"><tspan x="0" y="0">UI/UX Design</tspan></text>
+  <path class="cls-1" d="M5.78.32l34.09-.07c3.08,0,5.57,2.49,5.59,5.57h0c0,3.08-2.49,5.57-5.55,5.57l-34.09.07c-3.08,0-5.57-2.49-5.57-5.57H.25C.21,2.83,2.7.32,5.78.32Z"/>
+  <text class="cls-2" transform="translate(12.14 6.87)"><tspan x="0" y="0">UI/UX design</tspan></text>
 </svg>
